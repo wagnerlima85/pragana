@@ -1,0 +1,193 @@
+{
+    "menu":{
+        "inicio":{ "name":"Home","slug":"/"},
+        "texto":{"name":"Texts","slug":""},
+        "videos":{"name":"Videos","slug":"/videos"},
+        "fotografias":{"name":"Photographs","slug":"/photographs"},
+        "contato":{"name":"Contact","slug":"/contact"},
+        "pintura-ainda":{"name":"Painting, still","slug":"/texts/painting-still"},
+        "exercicios":{"name":"The exercises of painting","slug":"/texts/the-exercises-of-painting"},
+        "ferreira":{"name":"Pragana by Ferreira Gullar","slug":"/texts/pragana-by-ferreira-gullar"},
+        "a-pintura":{"name":"Pragana’s painting","slug":"/texts/pragana-painting"},
+        "sombra":{"name":"A man and his shadow ","slug":"/texts/a-man-and-his-shadow"},
+        "dialogando":{"name":"A dialogue with our shadows","slug":"/texts/a-dialogue-with-our-shadows"},
+        "cores":{"name":"Colours and shadows","slug":"/texts/colors-and-shadows"},
+        "embriao":{"name":"Deconstruction – the embryo","slug":"/texts/deconstruction-the-embryo"},
+        "desconstrucao":{"name":"Deconstruction","slug":"/texts/deconstruction"},
+        "pragana-por-pragana":{"name":"Pragana by Pragana - deconstruction","slug":"/texts/pragana-by-pragana-deconstruction"},
+        "cognicao":{"name":"All our knowledge has its origins in our perception","slug":"/texts/all-our-knowledge-has-its-origins-in-our-perception"},
+        "colagem":{"name":"Printed collage","slug":"/texts/printed-collage"},
+        "ousado":{"name":"Everything is daring for those who dare nothing","slug":"/texts/everything-is-daring-for-those-who-dare-nothing"}
+    },
+    "home":{
+        "mensagem":"PRAGANA POSSESSES THE NAME OF PAINTER. SOMEONE WITH THE BURNING DESIRE TO PAINT, AND IT IS NOT BY CHANCE THAT HE HAS CHOSEN THE PHRASE BY FERNANDO PESSOA: \"EVERYTHING IS DARING FOR THOSE WHO DARE NOTHING\".",
+        "prefacio":{
+            "title":"A friend",
+            "pre-title":"Pragana possesses the name of painter.",
+            "description":{
+                "p1":"One of the curious aspects of Pragana's painting is that, despite being extremely daring, he remains a figurative painter, although most of his totemic, humanized or animalized figures are imprisoned within carbon graphite, i.e., revolutionary, and therefore, unusual. He is as young as an astronaut, and as old as a cave-man painting in the dark.",
+                "p2":"These words have no other purpose, but to show my appreciation, and further admiration, for this artist from Pernambuco, who for some time now, may well have been inscribed into the gallery of the great painters."
+            }
+        },
+        "bio":{
+            "title":"BIOGRAPHY",
+            "pre-title":"BORN IN RECIFE, IN 1952, WHERE HE LIVES AND WORKS. A SELF-TAUGHT ARTIST, WHO BECAME A PROFESSIONAL ARTIST IN 1999.",
+            "individuais":{
+                "title":"Solo Exhibitions",
+                "01":"2016 - Tudo é ousado para quem a nada se atreve (Everything is daring for those who dare nothing) - Arte Plural Galeria - Recife",
+                "02":"2015 - Colagem Impressa (Printed Collage) - Florence - Recife",
+                "03":"2013 – Aglutinar (Agglutinate) – Arte Plural Galeria – Recife.",
+                "04":"2012 – Desconstrução (Deconstruction) – Centro Cultural dos Correios – Recife.",
+                "05":"2010 – First Artifact Show - (Celebrated Artist) – Recife",
+                "06":"2009 – O homem e sua sombra (A Man and his shadow) – Museu do Estado de Pernambuco – Recife.",
+                "07":"2003 – Galeria de Arte Segundo Jardim – Recife.",
+                "08":"2001 – Pragana – Museu do Estado de Pernambuco – Recife.",
+                "09":"1999 – Iphan – Museu da Abolição – Recife."
+            },
+            "coletivas":{
+                "title":"Collective Exhibitions",
+                "01":"2013 – Os 5 (The 5) – Galeria Ranulpho – Recife.",
+                "02":"2013 – Coletiva de junho – Espaço Brennand.",
+                "03":"2011 – Ano 11 (Year 11) – Galeria Mariana Moura – Recife",
+                "04":"2010 – Coletiva de junho – Espaço Brennand.",
+                "05":"2009 – Coletiva inaugural Galeria Ufici.",
+                "06":"2005 – Recife 468 anos – Galeria Ranulpho.",
+                "07":"2003 – Artes Plásticas Itinerantes."
+            }
+        }
+    },
+    "textos":{
+        "pintura-ainda":{
+            "title":"PAINTING, STILL",
+            "autor":"JOÃO CÂMERA, 2001",
+            "description":["<p>Within the production of contemporary art, the flat painted object, onto which paints with certain types of techniques and crafts are applied, remains hidden within a certain attrition of desires.</p>",
+                "<p>It is a kind of \"mass manoeuvre\" that artists may tap into when they are assaulted by boredom, weariness, the sadness of visual abundance.</p>",
+                "<p>Withdrawn thus, into a discreet chant, it then resembles chamber music, resonating deeper than the high-pitched sound of linear distance. And, in order to become more at ease (feeling at home and comfortable) inside this (narrow) niche of anguish, it attempts to be minimal in gestures, measured in speech, introspective and however and although, critical and distrustful, economic to the point of avarice, dour as well as a slightly exasperating, being of the memory with a long past drawn out behind and with so much clamour from the surrounding spectacles.</p>",
+                "<p>It is made, however, within the misfortunes of the Lampeduza paradox of the Gattopardo prince: \"something must change so that, eventually, everything remains the same.\" Or, then, restored by more cosmopolitan strategies such as that of the young painter and set designer Salle: \"I went back to painting because I discovered that it was the only thing that could still shock.\"</p>",
+                "<p>It is natural, therefore, that in the narrow space that it inhabits, the painting seeks out the minimal expressions, the concentrated foci, more than the baroque, choreographic scene. This reduction of frequency in the midst of pansensuality is perhaps what shocks (and checks) and still attracts artists and the spectators.</p>",
+                "<p>I know that when I look at Pragana's paintings, I have noticed these things that are now intrinsic to the act of painting, and I have also realized the effective and concise anatomy of the canvases: a field of minimally changing colours in which are subscribed (and into which are diluted) traces of bodies, faces, embryonic expressions of the human (and of some inhuman) presence.</p>",
+                "<p>Painting that, taken to the exiguous, native recess of the surface, also seems to have journeyed back in time, to have even returned to an archaeology of the act of painting, from which pictography appears, the residue of a graphic record, of indications and indexes of man.</p>",
+                "<p>Of course, the painter does not seek illustration or palaeographic justification. Coloured backgrounds are not caveman allusions, nor a language or code for the footprints of figuration.</p>",
+                "<p>There are implicit, virtual references to this, naturally, but there is not a tedious academic painting that imposes punishment and discipline, or formulae to be proven at the cost of our patience.</p>",
+                "<p>The artist Pragana is pleased with the poetry he is able to emit, he manoeuvres his materials with conscience and haste and we become very well conversed.</p>"]
+        },"os-exercicios-da-pintura":{
+            "title":"THE EXERCISES OF PAINTING",
+            "autor":"WEYDSON BARROS LEAL, 2003",
+            "description":["<p>The first sensation is that of a strange beauty, exactly as it should be with every new beautiful thing. For each observer, one of Pragana’s pictures rekindles the memory of a dream - or of what may be remembered of this dream, as a record of its distance.</p>",
+                "<p>With his poetic strangeness - more lyrical than the dramas of an Iberê (an affectionate Indigenous term) or even more dense than mere figuration - Pragana exercises painting as body and sensation, and the profiles and silhouettes he insinuates onto the canvas are only indications of his resistant humanity.</p>",
+                "<p>For the connoisseur of painting, his pictures are windows for new critical and dialectical relations. For new admirers, they are an excellent manner with which to enrich sensitivity.</p>"]
+        },"pragana-por-ferreira-gullar":{
+            "title":"PRAGANA BY FERREIRA GULLAR",
+            "autor":"FERREIRA GULLAR, 2006",
+            "description":["<p>Pragana makes part - being the figurative painter that he is - of the modern Expressionist tradition which, ever since Picasso’s Les Demoiselles d'Avignon, has liberated painting from the need to respect human proportions and from adhering to a faithful representation of what is real. This trend developed throughout the twentieth century, based on the freedom of drawing and colour, thereby superimposing a reinvention of the world with its representation. Pragana’s art belongs to this lineage, which combines, on his canvases, graphic inventiveness with chromatic expressiveness. In fact, the power of his colour is what gives his painting its foremost quality.</p>"]
+        },"a-pintura-de-pragana":{
+            "title":"PRAGANA’S PAINTING",
+            "autor":"FRANCISCO BRENNAND, 2006",
+            "description":["<p>It may have been born from the stars, from the drop of water that runs from the top of the tree, until it joins the lake. From the seed that shoots vertically away from the earth in search of green; from the egg that enfolds an embryo; from the liquid surface that becomes metalized; from hate and from love. From a red procession, from heads built by a vague gesture. From the man who acknowledges being your king; from the certainty of a lost and rediscovered childhood; from the darkness of alchemy and the whiteness of the aurora borealis; from the xiphopagous brothers; from the son who becomes the father of his grandparents; from the self-portrait retouched with the blue of the firmament; from a fight with the paintbrushes; from the incessant, creative arabesque; from the green slime that surrounds the channels of life; from the perpetual blue birth; from the awakening of a painter who knows, like no one else, his craft; a master of all times: past, present and future. Once I asked: What makes you poetic? And he said, \"awakening\".</p>",
+                "<p>In 2006, of the third millennium, the painter Pragana finished a canvas with the significant title of Transmutation. Which means what? (1) The act or effect of transmutation; (2) Any nuclear reaction that transforms one nuclide into another; (3) The formation of a new species through the progressive accumulation of mutations in the original species; an alchemical transmutation (transformation of a worthless metal into a precious metal); a change, a modification, transportation, transfer, change, conversion into ...?</p>",
+                "<p>Observing his painting, with its opaque, silent splendour - of the famous Voices of Silence, propounded by the legendary sensitivity of André Malraux -, the spectator is transported to a primordial world, as yet without words, although abounding with impulses, as if inside the heart of matter, \"coinciding with the axis of the world.\"</p>",
+                "<p>At no point in his career, Pragana stopped being essentially an eminently figurative artist. He transports, transfers, changes and converts reality into magnificent pictures (or caverns?) abounding with visible and invisible images. It merely remains to discover them with the necessary fascination.</p>"]
+        },"o-homem-e-sua-sombra":{
+            "title":"A MAN AND HIS SHADOW",
+            "autor":"CARLOS PRAGANA, 2009",
+            "description":["<p>Art is, above all, an interaction between the artist and his audience so that a contribution is thus provided for the diffusion of the work. The artist paints for himself, to satisfy a biological need that exists in each one of us, artists. But there is also a need to impress others, to move and to amaze, which always motivates us to move on.</p>",
+                "<p>Poets, in their poetry, have always described light and darkness within the solitude of the soul, and thus, in the art of painting it could be no different. In my opinion, painting has much to do with poetry, every painting I paint tells a story, as does poetry.</p>",
+                "<p>My painting may be summarised as people telling stories, in which certain realities may be rejected. Because of this, I have identified myself with Affonso Romano de Sant'anna's book, \"A Man and His Shadow\", particularly with the first poem, which tells the story of a man with the shadow of a dog, who dreams of having the shadow of a horse. Who doesn’t dream of having other shadows? It is precisely this duality of the human personality that excites me</p>",
+                "<p>In painting, what matters is the reality that the eyes present us with, but what we actually achieve is only an extremely poor shadow of reality itself. Art has the gift of bringing us closer to others. As an artist, we are able to change our reality and that of those who accompany us. We have the gift of being able to move and amaze life itself, and this provides us with an immense satisfaction in seeing that artists are able to create a better world.</p>",
+                "<p>As a human being, I am both impatient and immediate, one who likes to resolve life with speed and objectivity. I have encountered, through the exercise of painting, a way to paint in the same manner, without sketching, quickly.</p>",
+                "<p>It is difficult for me to explain the reason for the shapes and colours in my work, since everything occurs from an emotional impulse at the moment of creating. I can say however, that each person who observes my work sees it differently according to their feelings, which I find fascinating. Art becomes magical, since it contains something of the creator, not in the religious sense, but in the grandiose sense of universal creation.</p>",
+                "<p>We artists have invented nothing since the time of the cavemen, we only possess a keen curiosity and are able to see things that others can see, but do not.</p>",
+                "<p>My job is a duty to me, it is my profession.</p>"]
+        },"dialogando-com-nossas-sombras":{
+            "title":"A DIALOGUE WITH OUR SHADOWS",
+            "autor":"AFFONSO ROMANO DE SANT’ANNA, 2009",
+            "description":["<p>When Carlos Pragana and I met at Fliporto 2008, in Porto de Galinhas, and told me that he wanted to produce a series of paintings based on the poems of <i>A Man and his Shadow</i> (Ed. Allegory), I pondered on what was to come of this rather rash endeavour.</p>",
+                "<p>He told me that he had learned of the texts through television, watching an interview I gave with Jô Soares a few years ago. At that time, I had recited one or two poems, but he had been especially struck by the first one:</p>",
+                "<p>There was a man with the shadow of a dog<br />who dreamed of having the shadow of a horse,<br />but he was a man with the shadow of a dog,<br />which in a way, he was bothered by.</p>","<p>That’s why he imprisoned it in a kennel,<br />and late at night,<br/>while the shadow barked at him<br />his furry soul would gallop off.</p>",
+                " <p>Sometime later, Pragana announced that the exhibition was ready and mounted, and invited me to go and see it personally on its opening at the State Museum of Pernambuco. He had sent me reproductions via the internet, but now I was there, in front of dozens of canvases, some of them very large, two to three meters high. And he, obviously, watched curiously, for my reaction.</p>",
+                " <p>Having written articles and books on art, I assured Pragana that I was not an art critic, but a cultural analyst who tries to understand how art crystallizes certain enigmas and impasses from yesterday and today. Thus, before his unfazed canvases, I positioned myself as the author who saw, not illustrations of his poems, for that is not what he had set out to accomplish, but a painter who had freely and emotionally recreated a theme that is timeless, unconscious and present in both literature and folklore.</p>",
+                " <p>It pleased me that his work allowed a certain spontaneity to flow within the gestures and the explosion of colours. A dialogue with our shadows should not rationalise. We have to provoke them and let them come to the fore and configure themselves for our own amazement. In fact, it was thus that I had created those 48 poems, which I also call “story-poems”, which  sometimes stand in between humour and poetry; texts that are not bothered about eroding the prose, as shadows erode the original image.</p>",
+                " <p>The individual, the artist, the community that does not communicate with its shadows is losing a rich artery that attunes to the interior. Pragana threw himself into an artistic, emotional and soul-stirring adventure. He managed to capture a variety of representations, ranging from the very slightest suggestions to a certain voluptuousness of colours and movements, removing the shadow from the shadow itself, bringing it to the forefront of figuration.</p>",
+                " <p>Painters I esteem, such as João Câmara and Siron Franco, or engravers like Rubem Grillo, are artists who, like Carlos Pragana, work systematically with the other side of our perceptions.</p>",
+                " <p>Indeed, there are more things between individuals and their shadows than our vain wisdom supposes. Of this we bring insipid news to our texts and pictures.</p>"]
+        },"cores-e-sombras":{
+            "title":"COLOURS AND SHADOWS",
+            "autor":"JOÃO CÂMARA, 2009",
+            "description":["<p>Pragana, the painter, captures shadows on a corporeal plane, not a plane that is fleeing, from the platonic cave, but one that is immediately physical, although, and especially, undergoing change.</p>",
+                " <p>He creates paintings allusive to the verse of the Roman poet, superimposing one work onto another, the vice-versa of light and shadow.</p>",
+                " <p>In other earlier paintings, he had already inscribed the pictography, the writing of divinatory signs, speeches made with brush strokes to be read with the syntax of paint.</p>",
+                " <p>This order now asserts itself onto planes that are not just backgrounds where signs and gestures are cut into. They are much more: plasmas and infinite fields of hues and lights.</p>",
+                " <p>Therein, the shadows drift and become embedded into the reverberation and the matter of the cosmic spectrum. Hence, the shadows cease to be silhouettes which, bathed in colour, live only slightly dependent on the focus of light which gave them origin.</p>",
+                " <p>Thus, the painter and the poet seem better to understand one another, each one with words and colours.</p>"]
+        },"desconstrucao-o-embriao":{
+            "title":"DECONSTRUCTION – THE EMBRYO",
+            "autor":"PRAGANA, 2012",
+            "description":["<p>\"In this exhibition I am proposing Deconstruction in the construction process of the work, in order to reach the minimum point of discovering the moment of creation. I wish to continue with my expressive power, but as the artist I am, I produce without knowing where I will end up, which is why I believe in an aesthetic adventure. I invite you to join me on this journey, seeking the unusual, rather than that which has already been seen. To fulfil my intentions, I will attempt to avoid a stifling process of creation. I want something new, which may be drawing or painting, completed with objects that are pertinent to my search. I enjoy the surprises of life, very similar to the way it happens while creating. I am not seduced by repetition in art. It is my hope that this art has its defects, as with people, so the personality of the work will be more interesting. I am writing this in August 2010 and I do not know how it will be in June 2012.\"</p>"]
+        },"desconstrucao":{
+            "title":"DECONSTRUCTION",
+            "autor":"WEYDSON BARROS LEAL, 2012",
+            "description":["<p>The collection of work by Pragana called Deconstruction reflects his vigorous restlessness when faced with the possibilities of art. What we have here, both as a whole and as a unit, is a new portrait of a mature artist who, over the past ten years, has become an essential link in the chain of art in the state of Pernambuco. With his manner of drawing, which is free from any academic burden, from very early on, Pragana reached the stage that other painters avoid after gaining a well-known name: the step beyond. In the case of this new work, this step does not mean the abandonment of figuration - which he dominates - nor the conformable exercise of some empty abstraction. In the field of his cognitive search, in which random traits, spots and superimposition recreate the possibilities of what is known as painting, Pragana has been able to create a new form for his language, which is not just expressionist, nor is it merely figurative nor simply a fusion of one with the other. Being a follower of the lineage that, since Picasso, has influenced great western artists – which in Brazil has the name of Iberê Camargo as one of its greatest heirs -, Pragana has incorporated observations into his own vocabulary from numerous modern artists. However, the result of any attempt to identify his influences culminates in his personal gesture, the inauguration of a particular universe with its own personality.</p>"
+            ,"<p>After more than three decades of developing painting on canvas, in which brushes, acrylic paint and oil sticks offer rich conjugations and textures, in this new work the challenge that imposes itself is the support of paper. In these paintings, in which such a delicate material has not merely replaced the canvas, but when painted and torn, participates in creating with imponderable impulse and chance, the artist renews his commitment to advancing the sensitive domains between figuration and abstractionism, proposing an even more radical experience. What was already conquered territory in his painting on canvas then expands its frontiers within other challenges, and what we now have in that art on paper - not only on paper - is a revival of pictorial perception. In compositions with tears that have been previously coloured, the artist also suggests a reunion with childhood, when the purest instincts of our first gestures suddenly discovered form and colour. In an analysis of Pragana's painting, written in 2001, the critic and painter João Câmara, armed with shrewd sensibility, observed that it was \"[…] Painting that, taken to the exiguous, native recess of the surface, also seems to have journeyed back in time, to have even returned to an archaeology of the act of painting, from which pictography appears, the residue of a graphic record, of indications and indexes of man.” Would not this archaeology also be a return to childhood, to our first expressions in scratched, painted and torn passages, as if returning to our ancestral link of communication?</p>"
+            ,"<p>Perhaps the most iconic artist in modern art with regard to the use of paper, is Matisse. From very early on, the master of Le Cateau-Cambrésis experimented with this material which, along with the drawing and engraving of Rembrandt and Goya, established its nobility in European art. Of course, long before that, in China and Japan, paper had already been an enduring support for a centuries-old tradition, serving painting, of which the exiled Gauguin was one of its greatest admirers. Matisse knew this tradition and, with Gauguin and Van Gogh, was not immune to the aesthetic influxes of Oriental art.</p>"
+            ,"<p>Within this chain of associations, what distinguishes Pragana's work from that of other artists who create cuts and collages with paper, is his way of treating the material, beginning by painting each individual fragment through to the organizing and fixing the forms. While for most, the use of tools such as scissors or the stiletto knife enables a precise cut, Pragana conducts this work only with his hands. In this way, the imprecision of the tear becomes its coadjutant, transforming each work not only into a collage, but into a sculpture of the painting.</p>"
+            ,"<p>There are few artists, especially in contemporary art, who dedicate themselves to painting on paper as their main means of expression. In the vast majority of cases, paper is used only for engraving or watercolour, and in these domains Brazilian art has a tradition of great names. This is due less to the artists than to certain market prejudices, which consider anything not painted on canvas as being art of little value. That, obviously, makes no sense. A more profound knowledge of the history of art should be enough. I believe that Pragana's new work, more than being just a collection of beautiful paintings, is an advance and an achievement: not only towards something new, but also towards an appreciation of paper. And within this advance, in which the new is already something classic, the personal experience of the observer will bring to each work its own translation, and each flower or figure will be reinvented with the approach of his gaze.</p>"]
+        },"pragana-por-pragana-desconstrucao":{
+            "title":"PRAGANA BY PRAGANA - DECONSTRUCTION",
+            "autor":"PRAGANA, 2012",
+            "description":["<p>It was through the memory of my grandmother asking her grandchildren to cut up newspapers so as to make little flags for the Christmas procession that this exhibition came into being. Many years later, I wanted to prove to myself that I could, for one moment, abandon the brush, so that I could “paint with my hands”.</p>"
+                ,"<p>I always knew I wanted to be an artist. I developed the talent to paint from an early age. As a child, I drew everything I saw. Mainly during my vacations, through the chants coming from the big mansion house of the Engenho Buriti sugar mill, in Palmares. Even today, this memory continues to inspire me. It’s as if it has been kept in the cupboards at the mill, which, through the eyes of a child, were enormous, with so many boxes, knickknacks, books, ... I loved everything; it was like a great big castle, with a distinctive scent that was a mixture of things that had been stored and the jasmine on the terrace.</p>"
+                ,"<p>Somehow, all this came to the surface in Deconstruction. In 2010, when I named the exhibition, the mysteries and incantations of those memories remained strong in my mind, but I did not know into which box of stored items I had placed them. The beginning of this work was therefore a true deconstruction.</p>"
+                ,"<p>The desire of the artist is to raise people’s eyebrows. This is what counts in art. When this box began to open, something new appeared in my work, something still without form. Moved by emotion, the engine of all art, I gradually brought everything out. The box gradually appeared. I hope it moves people.</p>"
+                ]
+        },"toda-nossa-cognicao-principia-de-sentimento":{
+            "title":"ALL OUR KNOWLEDGE HAS ITS ORIGINS IN OUR PERCEPTION",
+            "autor":"MARIA DO CARMO NINO, 2013",
+            "description":["<p>“All our knowledge has its origins in our perception”<br />Leonardo da Vinci</p>"
+                ,"<p>On being faced with my question regarding the role that music played in his creation process, the painter Carlos Pragana, indicated poetry as the main trigger for his imagination. Why then had my contact with the painted paper collages in his studio given me such a strong musical impression? I was soon reminded of something I had read in the words of a British artist, James Edward MacDonald, regarding the fact that poetry, a temporal work, for him, represented to a higher degree, the vital feeling of a beating heart, a pulsation, while a picture, would represent perfection in space, conceived, constructed, viewed with a precise perception. Great music, would thus emerge, from the alliance between these two rhythms.</p>"
+                ,"<p>Both time and space act as condensed rhythms in a simultaneously musical, poetic and fundamentally artistic composition between painting and drawing: this is for me the great amalgam of Pragana's work. By electing the collage as the poetry of his conviction, he seems to make a testament of faith in recognising the metaphorical power of the operations present in this process, in relation to the very idea of human survival, amidst the joys, misfortunes, and the essential surpassing, which touch us all.</p>"
+                ,"<p>It is as if this technique were in itself evocative of this status quo. After all, the initial act of painting paper, then tearing it up or cutting it into fragments and integrating it into a totality, conceived in lyrical figurative ordinations made expressly to provoke us subjectively, seems to corroborate the condition of our human existence, situated as a pendulum between the poles of construction/deconstruction. We are all, constantly, reinventing ourselves. It is not by chance that one of his previous exhibitions was called \"Deconstructions\" while this current show stands dialectically on the opposite side, of \"Agglutination\". All this involvement experienced positively in painting encourages him to start over again, to rekindle desires, driven by inspiration, to expect more energy, vitality, condemned to paint today and always, and above all, remaining irreducibly true to himself.</p>"
+                ,"<p>Composing, the fundamental operation in this exhibition, is literally, carried out together. But what most agglutinates the artist? By following the meanders, there is a sensation that lines, colours and forms in their various contrasts are autotomised and surprise even their author, it seems that everything is the renewal of something already drawn and stamped into the past, which at the same time becomes incredibly new, it becomes poetry. The various dream-like processes of condensation, displacement, association and staging through decoupage, superimposing, palimpsest, oscillating between horizontality and verticality, or a composite of them all, aim to fix the dynamism and constancy of the lines of force created by the textures, emphasized by the light, and also enliven our spirit and our imagination. Instead of wondering what these images signify, we should focus on discerning their emotional truth and rejoice at acquiring the knowledge they provide us with.</p>"
+            ]
+        },"colagem-impressa":{
+            "title":"PRINTED COLLAGE",
+            "autor":"PRAGANA, 2015",
+            "description":["<p>I am an intuitive artist and completely self-taught, and today, paper represents a fundamental part of my work, I like what I find in it.</p>"
+                ,"<p>As I am a restless being and my life I think, is too short for all the ideas that come to mind, I have a voracious appetite for new experiences.</p>"
+                ,"<p>I began to make collages, I started evolving and experimenting, and for me everything became new, although I'm not discovering anything that others have not done. I have given the name printed collage to explain to people what I have been doing. A collage scanned onto very good quality paper so as to provide a longevity that normal paper would not have.</p>"
+                ,"<p>I compare myself to a recycler, who uses what already exists in order to tell a new story. However, what makes it better or worse is how we tell it. I believe that herein, there is life.</p>"
+            ]
+        },"tudo-e-ousado-para-quem-a-nada-se-atreve":{
+            "title":"EVERYTHING IS DARING FOR THOSE WHO DARE NOTHING ",
+            "autor":"FRANCISCO BRENNAND, 2015",
+            "description":["<p>Pragana possesses the name of painter. Someone with the burning desire to paint, and it is not by chance that he has chosen the phrase by Fernando Pessoa: \"Everything is daring for those who dare nothing\". Continuity and innovation: this is what may first be mentioned with regard to these canvases exhibited at the Arte Plural Galeria. What impresses, above all, is the size of his paintings. It might even be thought that we are experiencing a muralist, whose conceptual ambition does not allow him to express himself in small formats. He presides over a court, where the anatomy of bodies as well as that of spaces, is being judged. \"A subtle disguise\" is the name of one of his paintings, the measurements of which are 1.00 x 2.00m, thereby already stating what is to come.</p>"
+                ,"<p>How strange is this world of words. How can you state that the painting is completed when everything is a repercussion? Like a pendulum, time oscillates in two directions. It turns out that the two things may be confused, the cold darkness of the caverns with the excessive clarity of a world that inexorably warms. Pragana’s painting journeys into these two directions as a hidden thread that directs all things. He is the rudimentary painter, who harshly traces the great lines that have shaped the quest that the entire community demands, and at the same time the totemic artist who launches his figures of archangels into a world of clouds, as if this upper space also boasted its solid floors. A mural? Let us remember the great Fernand Léger when he voiced: \"We must destroy the walls\", which I would rather temper, to say that we must bewitch them. Modern architects think that the concrete wall is just a concrete wall, but I would continue to say that it is necessary to bewitch it.</p>"
+                ,"<p>One of the curious aspects of Pragana's painting is that, despite his extreme daring, he remains a figurative painter, although most of his totemic figures, humanized or animalized, are imprisoned by carbon graphism, which is revolutionary, and meanwhile, unusual. He is as new as an astronaut and as old as a cave magician, painting in the dark. These words have no other purpose than to show my appreciation and admiration for this artist from Pernambuco who may well have inscribed himself for some time now into the gallery of the great Brazilian painters.</p>"
+                ,"<p>His admirable instinct as an artist is demonstrated in his courage to entitle his great murals. I remember that the need to give \"names to the bulls\" has been conversation material, which basically means naming every work a painter creates. Pragana is also a poet. One of his paintings is called \"The Breath of the Clouds\".</p>"
+            ]
+        }
+    },
+    "videos":{
+        "title":"Videos",
+        "paixao":"A PASSION FOR LIFE AND ART",
+        "exposicao-aglutinar":"EXHIBITION - AGGLUTINATE",
+        "entrevista-aglutinar":"INTERVIEW ON THE EXHIBITION - AGGLUTINATE",
+        "desconstrucao":"EXHIBITION - DECONSTRUCTION",
+        "o-homem-e-sua-sombra":"EXHIBITION – A MAN AND HIS SHADOW"
+    },
+    "fotografias":{"title":"PHOTOGRAPHS"},
+    "contato":{
+        "title":"CONTACT",
+        "subtitle":"THANK YOU FOR VISITING MY SITE. WHILE YOU ARE HERE, WHY NOT SEND ME A MESSAGE? IT WILL BE A PLEASURE TO REPLY.",
+        "name":"NAME",
+        "erro-name":"Please, insert your name.",
+        "email":"E-MAIL",
+        "erro-email":"Please, insert your email.",
+        "message":"MESSAGE",
+        "erro-message":"Please, insert a message.",
+        "enviar":"SEND",
+        "agradecimento":"Thank's for you message",
+        "error":"Oops.: There was a problem. :("
+    },
+    "footer":"ALL RIGHTS RESERVED."
+  }
+  

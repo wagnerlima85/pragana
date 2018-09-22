@@ -1,0 +1,53 @@
+<!-- NAVIGATION -->
+<nav class="navbar navbar-custom navbar-transparent navbar-fixed-top" role="navigation">
+
+    <div class="container">
+
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#custom-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            <a class="navbar-brand" routerLink="/">Pragana</a>
+        </div>
+
+        <div class="collapse navbar-collapse" id="custom-collapse">
+
+            <ul class="nav navbar-nav navbar-right" >
+                    <li><a routerLink="{{'menu.inicio.slug' | translate}}" >{{'menu.inicio.name' | translate}}</a></li>
+                    <li class="dropdown">
+                    <a  class="dropdown-toggle" data-toggle="dropdown">{{'menu.texto.name' | translate}}</a>
+                    <ul class="dropdown-menu" role="menu">
+                        <li><a routerLink="{{'menu.pintura-ainda.slug' | translate}}">{{'menu.pintura-ainda.name' | translate}}</a></li>
+                        <li><a routerLink="{{'menu.exercicios.slug' | translate}}">{{'menu.exercicios.name' | translate}}</a></li>
+                        <li><a routerLink="{{'menu.ferreira.slug' | translate}}">{{'menu.ferreira.name' | translate}}</a></li>
+                        <li><a routerLink="{{'menu.a-pintura.slug' | translate}}">{{'menu.a-pintura.name' | translate}}</a></li>
+                        <li><a routerLink="{{'menu.sombra.slug' | translate}}">{{'menu.sombra.name' | translate}}</a></li>
+                        <li><a routerLink="{{'menu.dialogando.slug' | translate}}">{{'menu.dialogando.name' | translate}}</a></li>
+                        <li><a routerLink="{{'menu.cores.slug' | translate}}">{{'menu.cores.name' | translate}}</a></li>
+                        <li><a routerLink="{{'menu.embriao.slug' | translate}}">{{'menu.embriao.name' | translate}}</a></li>
+                        <li><a routerLink="{{'menu.desconstrucao.slug' | translate}}">{{'menu.desconstrucao.name' | translate}}</a></li>
+                        <li><a routerLink="{{'menu.pragana-por-pragana.slug' | translate}}">{{'menu.pragana-por-pragana.name' | translate}}</a></li>
+                        <li><a routerLink="{{'menu.cognicao.slug' | translate}}">{{'menu.cognicao.name' | translate}}</a></li>
+                        <li><a routerLink="{{'menu.colagem.slug' | translate}}">{{'menu.colagem.name' | translate}}</a></li>
+                        <li><a routerLink="{{'menu.ousado.slug' | translate}}">{{'menu.ousado.name' | translate}}</a></li>
+                    </ul>
+                </li>
+                <li><a routerLink="{{'menu.videos.slug' | translate}}" >{{'menu.videos.name' | translate}}</a></li>
+                <li><a routerLink="{{'menu.fotografias.slug' | translate}}" >{{'menu.fotografias.name' | translate}}</a></li>
+                <li><a routerLink="{{'menu.contato.slug' | translate}}" >{{'menu.contato.name' | translate}}</a></li>
+                <li><a href="https://www.instagram.com/pragana/" target="_blank">Instagram</a></li>
+                <li><a href="https://www.facebook.com/pages/Atelier-Pragana/115976118484904" target="_blank">Facebook</a></li>
+                <li>
+                    <select #langSelect (change)="reload(langSelect.value)" style="margin-top: 14px;padding: 3px;">
+                      <option *ngFor="let lang of translate.getLangs()" [value]="lang" [selected]="lang === translate.currentLang">{{ lang }}</option>
+                    </select>
+                  </li>
+                </ul>
+        </div>
+
+    </div>
+
+</nav>

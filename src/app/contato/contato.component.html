@@ -1,0 +1,74 @@
+<section id="home" class="module bg-dark bg-dark-50 m-b-20" style="padding: 140px 0 40px" data-background="assets/images/pragana-home.jpg">
+
+  <div class="hs-caption container">
+      <div class="caption-content">
+          <div class="hs-title-size-4 font-alt m-b-30">
+              {{'contato.title' | translate}}
+          </div>
+      </div>
+  </div>
+
+</section>
+<div class="wrapper">
+
+		<!-- CONTACT -->
+		<section class="m-b-20">
+
+			<div class="container">
+
+				<!-- MODULE TITLE -->
+				<div class="row">
+
+					<div class="col-sm-6 col-sm-offset-3">
+
+
+						<div class="module-subtitle align-center font-inc">{{'contato.subtitle' | translate}}</div>
+
+					</div>
+
+				</div>
+				<!-- /MODULE TITLE -->
+
+				<!-- CONTACT FORM -->
+				<div class="row">
+					<div class="col-sm-6 col-sm-offset-3">
+						<form  (ngSubmit)="onSubmit(f)" #f="ngForm" novalidate>
+
+							<div class="form-group">
+								<div [ngClass]="getFormGroupClass(name.valid, name.pristine)">
+									<label for="name" class="form-control-label">{{'contato.name' | translate}}</label>
+									<input type="text" #name="ngModel" name="name" required  [ngClass]="getFormControlClass(name.valid, name.pristine)" placeholder="" (ngModel)="name">
+									<p class="text-danger" *ngIf="name.invalid && name.dirty">{{'contato.erro-name' | translate}}</p>
+								</div>
+							</div>
+							<div class="form-group">
+								<div [ngClass]="getFormGroupClass(email.valid, email.pristine)">
+									<label for="email">{{'contato.email' | translate}}</label>
+									<input type="email" #email="ngModel" name="email" pattern="^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$" required [ngClass]="getFormControlClass(email.valid, email.pristine)" placeholder="" (ngModel)="email">
+									<p class="text-danger" *ngIf="email.invalid && email.dirty">{{'contato.erro-email' | translate}}</p>
+								</div>
+							</div>
+							<div class="form-group">
+								<div [ngClass]="getFormGroupClass(message.valid, message.pristine)">
+									<label for="message">{{'contato.message' | translate}}</label>
+									<textarea class="form-control" name="message" #message="ngModel" required [ngClass]="getFormControlClass(message.valid, message.pristine)" placeholder="" (ngModel)="message"></textarea>
+									<p class="text-danger" *ngIf="message.invalid && message.dirty">{{'contato.erro-message' | translate}}</p>
+								</div>
+							</div>
+							<button type="submit" [disabled]="f.invalid" class="btn btn-round btn-g">Enviar</button>  
+							<p class="text-danger" *ngIf="error">{{'contato.error' | translate}}</p>
+							<p class="text-danger" *ngIf="error">{{'contato.agradecimento' | translate}}</p>
+						</form>
+					</div>
+				</div>
+
+
+			</div>
+
+		</section>
+		<!-- /CONTACT -->
+
+		<!-- DIVIDER -->
+		<hr class="divider-w">
+		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3950.0899663053824!2d-34.89429088521989!3d-8.092307694173954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7ab1f400b038271%3A0x4e3150ab0f37ba64!2sCarlos+Pragana!5e0!3m2!1spt-PT!2sbr!4v1502851795916" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>

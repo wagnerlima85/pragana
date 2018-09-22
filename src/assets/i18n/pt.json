@@ -1,0 +1,253 @@
+{
+    "menu":{
+        "inicio":{ "name":"Início","slug":"/"},
+        "texto":{"name":"Textos","slug":""},
+        "videos":{"name":"Vídeos","slug":"/videos"},
+        "fotografias":{"name":"Fotografias","slug":"/fotografias"},
+        "contato":{"name":"Contato","slug":"/contato"},
+        "pintura-ainda":{"name":"Pintura, ainda","slug":"/textos/pintura-ainda"},
+        "exercicios":{"name":"Os exercícios da pintura","slug":"/textos/os-exercicios-da-pintura"},
+        "ferreira":{"name":"Pragana por Ferreira Gullar","slug":"/textos/pragana-por-ferreira-gullar"},
+        "a-pintura":{"name":"A pintura de Pragana","slug":"/textos/a-pintura-de-pragana"},
+        "sombra":{"name":"O homem e sua sombra","slug":"/textos/o-homem-e-sua-sombra"},
+        "dialogando":{"name":"Dialogando com nossas sombras","slug":"/textos/dialogando-com-nossas-sombras"},
+        "cores":{"name":"Cores e Sombras","slug":"/textos/cores-e-sombras"},
+        "embriao":{"name":"Desconstrução - o embrião","slug":"/textos/desconstrucao-o-embriao"},
+        "desconstrucao":{"name":"Desconstrução","slug":"/textos/desconstrucao"},
+        "pragana-por-pragana":{"name":"Pragana por Pragana - Desconstrução","slug":"/textos/pragana-por-pragana-desconstrucao"},
+        "cognicao":{"name":"Toda nossa cognição principia de sentimentos","slug":"/textos/toda-nossa-cognicao-principia-de-sentimento"},
+        "colagem":{"name":"Colagem impressa","slug":"/textos/colagem-impressa"},
+        "ousado":{"name":"Tudo é ousado para quem a nada se atreve","slug":"/textos/tudo-e-ousado-para-quem-a-nada-se-atreve"}
+    },
+    "home":{
+        "mensagem":"Pragana possui o nome de pintor. Alguém que tem a gana de pintar e não foi por acaso que escolheu a frase de Fernando Pessoa: \"Tudo é ousado para quem a nada se atreve\".",
+        "prefacio":{
+            "title":"Um amigo",
+            "pre-title":"Pragana possui o nome de pintor.",
+            "description":{
+                "p1":"Um dos aspectos curiosos da pintura de Pragana é que, apesar de sua extrema ousadia, ele continua um pintor figurativo, embora a maior parte de suas figuras totêmicas, humanizadas ou animalizadas, estejam aprisionadas por um grafismo carbonário, isto é, revolucionário, portanto, inusitado. Ele é novo como astronauta e tão antigo quanto um feiceiro das cavernas a pintar na escuridão.",
+                "p2":"Essas palavras não têm outra destinação, senão demonstrar o meu apreço, e outra admiração, por este artista pernambucano, que pode perfeitamente se inscrever desde há algum tempo, na galeria dos grandes pintores."
+            }
+        },
+        "bio":{
+            "title":"Biografia",
+            "pre-title":"NASCEU NO RECIFE, EM 1952, ONDE VIVE E TRABALHA. AUTODIDATA, INICIOU FORMALMENTE NAS ARTES PLÁSTICAS EM 1999.",
+            "individuais":{
+                "title":"Mostras individuais",
+                "01":"2016 - Tudo é ousado para quem a nada se atreve - Arte Plural Galeria - Recife",
+                "02":"2015 - Colagem Impressa - Florence - Recife",
+                "03":"2013 – Aglutinar – Arte Plural Galeria – Recife.",
+                "04":"2012 – Desconstrução – Centro Cultural dos Correios – Recife.",
+                "05":"2010 – Primeira Mostra Artefacto (Artista homenageado) – Recife.",
+                "06":"2009 – O homem e sua sombra – Museu do Estado de Pernambuco – Recife.",
+                "07":"2003 – Galeria de Arte Segundo Jardim – Recife.",
+                "08":"2001 – Pragana – Museu do Estado de Pernambuco – Recife.",
+                "09":"1999 – Iphan – Museu da Abolição – Recife."
+            },
+            "coletivas":{
+                "title":"Mostras coletivas",
+                "01":"2013 – Os 5 – Galeria Ranulpho – Recife.",
+                "02":"2013 – Coletiva de junho – Espaço Brennand.",
+                "03":"2011 – Ano 11 – Galeria Mariana Moura – Recife.",
+                "04":"2010 – Coletiva de junho – Espaço Brennand.",
+                "05":"2009 – Coletiva inaugural Galeria Ufici.",
+                "06":"2005 – Recife 468 anos – Galeria Ranulpho.",
+                "07":"2003 – Artes Plásticas Itinerantes."
+            }
+        }
+    },
+    "textos":{
+        "pintura-ainda":{
+            "title":"PINTURA, AINDA",
+            "autor":"JOÃO CÂMERA, 2001",
+            "description":["<p>Na produção da arte contemporânea, a pintura objeto plano no qual se aplicam tintas com certos tipos de técnicas e lavor fica escondida em algum desvão dos desejos.</p>",
+            "<p>É uma espécie de “massa de manobra” da qual os artistas podem lançar mão quando assaltados pelo tédio, o cansaço, a tristeza da abundância visual.</p>",
+            "<p>Recolhida, assim, num canto discreto, assemelha-se à música de câmara, soando mais em profundidade que em distância linear e altissonância. E, também, para melhor se acomodar (estar no cômodo e a cômodo) neste nicho (angosto) de angústias, procura ser mínima de gestos, comedida no falar, introspectiva e, no entanto ou portanto, crítica e desconfiada, econômica até a avareza, sisuda e também um pouco chata, sendo memoriosa com tanto passado pelas costas e com tanto ruído de espetáculos em seu redor.</p>",
+            "<p>Vai sendo feita, entretanto, nos percalços do paradoxo do príncipe gatopardo de Lampeduza: “algo precisa mudar para, que, afinal de contas, tudo permaneça como está”. Ou, então, resgatada por estratégias mais cosmopolitas como a do jovem pintor e cenógrafo Salle: “voltei a fazer pintura porque descobri que ela era a única coisa que ainda podia chocar”.</p>",
+            "<p>É natural, pois, que no espaço estreito que habita, a pintura procure as expressões mínimas, os focos concentrados, mais que a cena barroca e coreográfica. Esta sua redução de freqüência no meio da pansensualidade será talvez aquilo que choca (e checa) e ainda atrai artistas e público.</p>",
+            "<p>Sei que, ao ver as pinturas de Pragana, notei estas coisas que são intrínsecas agora no ato de pintar e, também, percebi a eficaz anatomia rala e concisa das telas: um campo de cores minimamente cambiantes em que se inscrevem (e se diluem) traços de corpos, faces, expressões embriões da presença humana (e de algumas desumanidades).</p>",
+            "<p>Uma pintura que, levada ao recesso exíguo e nativo do plano, parece também ter voltado muito no tempo, ter, mesmo, se voltado a uma arqueologia do ato de pintar daí que pareça pictografia, resíduo de registro gráfico, indícios e índices do homem.</p>",
+            "<p>Claro está que o pintor não busca ilustração ou justificativa paleográfica. Os fundos de cor não são alusões rupestres, nem são linguagem ou código as pegadas da figuração.</p>",
+            "<p>Há referências implícitas e virtuais a isto, é natural, mas não há uma aborrecida pintura de tese que se imponha castigo e disciplina ou equações a serem provadas ao custo de nossa paciência.</p>",
+            "<p>O artista Pragana se compraz com a poética que é capaz de emitir, manobra seus materiais com consciência e apuro e estamos muito bem conversados.</p>"]
+        },"os-exercicios-da-pintura":{
+            "title":"OS EXERCÍCIOS DA PINTURA",
+            "autor":"WEYDSON BARROS LEAL, 2003",
+            "description":["<p>A primeira sensação é de estranha beleza, como deve ser com toda nova coisa bela. Para cada observador, um quadro de Pragana reacende a lembrança de um sonho — ou o que se pôde lembrar desse sonho, como um registro de sua distância.</p>",
+                "<p>Em sua estranheza poética — mais lírica que os dramas de um Iberê ou ainda mais densa que a simples figuração —, Pragana exercita a pintura como corpo e sensação, e os perfis e silhuetas que insinua sobre a tela são apenas indicações de sua humanidade resistente.</p>",
+                "<p>Para o conhecedor de pintura, seus quadros são janelas para novas relações críticas e dialéticas. Para os novos admiradores, são uma ótima maneira de enriquecer a sensibilidade.</p>"]
+        },"pragana-por-ferreira-gullar":{
+            "title":"PRAGANA POR FERREIRA GULLAR",
+            "autor":"FERREIRA GULLAR, 2006",
+            "description":["<p>Pragana se insere – como pintor figurativo que é – na tradição moderna expressionista que, a partir do Les Demoiselles",
+                " d´Avignon, de Pìcasso, liberou a pintura de respeitar as proporções humanas e de ater-se à representação fiel do real.",
+                " Essa tendência se desenvolveu ao longo do século XX, apoiada na liberdade do desenho e da cor, sobrepondo, assim,",
+                " a reinvenção do mundo à sua representação. A essa linhagem pertence a arte de Pragana que alia, em suas telas, a inventividade",
+                " gráfica à expressividade cromática. Aliás, está na força do colorido a principal qualidade de sua pintura.",
+            "</p>"]
+        },"a-pintura-de-pragana":{
+            "title":"A PINTURA DE PRAGANA",
+            "autor":"FRANCISCO BRENNAND, 2006",
+            "description":["<p>Pode ter nascido das estrelas, da gota-d’água que percorre o topo da árvore, até se integrar ao lago. Da semente que",
+                    " brota verticalmente afastando a terra em busca do verde; do ovo que guarda um embrião; da face líquida que se metaliza;",
+                    " do ódio e do amor. De uma procissão rubra, de cabeças construídas por um gesto vago. Do homem que reconhece ser o",
+                    " rei de você; da certeza da infância perdida e reencontrada; do negror alquímico e da brancura da aurora boreal; dos",
+                    " irmãos xipófagos; do filho que se torna pai de seus avós; do autorretrato retocado com o azul do firmamento; da briga",
+                    " com os pincéis; do arabesco incessante e criativo; do lodo verde que envolve os canais da vida; do nascimento perpétuo",
+                    " em azul; do despertar de um pintor que conhece, como ninguém, o seu ofício; um mestre de todos os tempos: passado,",
+                    " presente e futuro. Um dia, perguntei: Qual a sua poética? E ele disse: “despertar”.</p>",
+                    " <p>No ano de 2006 do terceiro milênio, o pintor Pragana termina uma tela com o título significante de Transmutação. Que",
+                    " quer dizer? (1) Ato ou efeito de transmutar-se; (2) Qualquer reação nuclear que transforme um nuclídeo em outro; (3)",
+                    " Formação de uma nova espécie através do acúmulo progressivo de mutações na espécie original; transmutação alquímica",
+                    " (transformação de um metal sem valor em um metal precioso); alteração, modificação, transporte, transferência, mudança,",
+                    " conversão em?…</p>",
+                    " <p>Diante da sua pintura, de um esplendor opaco e silencioso — das famosas Vozes do Silêncio propugnadas pela lendária",
+                    " sensibilidade de André Malraux —, o espectador é transportado para um mundo primevo, ainda sem palavras, embora repleto",
+                    " de pulsões, como se tivesse no interior do coração da matéria, “coincidindo com o eixo do mundo”.</p>",
+                    " <p>Em nenhum momento de sua carreira, Pragana deixou de ser um artista essencialmente e eminentemente figurativo. Ele",
+                    " transporta, transfere, muda e converte a realidade em magníficos quadros (ou cavernas?) repletos de imagens visíveis",
+                    " e invisíveis. Resta descobri-las com o necessário deslumbramento.</p>"]
+        },"o-homem-e-sua-sombra":{
+            "title":"O HOMEM E A SUA SOMBRA",
+            "autor":"CARLOS PRAGANA, 2009",
+            "description":["<p>A arte é, antes de tudo, uma interação entre o artista e seu público para que, assim, haja uma contribuição",
+                " na difusão daobra. O artista pinta para si, para satisfazer uma necessidade biológica que existe",
+                " em cada um de nós, artistas. Porém, existe também uma necessidade de impressionar os outros,",
+                " de comover e deslumbrar, e isso nos motiva sempre a seguir adiante.&lt;;p&gt;</p>",
+                " <p>Os poetas, nas suas poesias, sempre descreveram a luz e a escuridão na solidão da alma, e na",
+                " arte da pintura não poderia ser diferente. Na minha opinião, a pintura temmuito a ver com",
+                " a poesia, cada quadro que pinto relata uma história, assim como acontece na poesia.</p>",
+                " <p>Minha pintura se resume em pessoas relatando histórias, nas quais pode haver a rejeição de determinadas",
+                " realidades. Por isso, identifiquei-me com o livro O Homem e sua Sombra, de Affonso Romano",
+                " de Sant’anna, mais precisamente com o primeiro poema, que relata a história de um homem com",
+                " sombra de cachorro que sonha ter sombra de cavalo.Quem não sonha com outras sombras? É exatamente",
+                " essa dualidade da personalidade humana que me instiga.</p>",
+                " <p>Na pintura, o que importa é a realidade que os olhos nos mostram, mas o que conseguimos é apenas",
+                " uma sombra extremamente pobre da própria realidade em si. A arte tem o dom de nos aproximar",
+                " dos outros. Como artista,podemos mudar a nossa realidade e a de quem nos acompanha. Possuímos",
+                " o dom de comover e deslumbrar a própria vida, e isso nos proporciona uma imensa satisfação",
+                " em ver que os artistas podem fazer um mundo melhor.</p>",
+                " <p>Sou um ser humano impaciente e imediatista que gosta de resolver a vida com rapidez e objetividade.",
+                " No exercício da pintura, encontrei o modo de pintar também assim, sem esboço, com rapidez.</p>",
+                " <p>É difícil pra mim explicar o motivo das formas e cores das minhas obras, já que tudo acontece",
+                " sob um impulso da emoção na hora da criação. Posso afirmar que cada pessoa diante de minha",
+                " obra consegue enxergá-la diferente de acordo com seus sentimentos, e isso é fascinante. A",
+                " arte se torna mágica, pois contém alguma coisa do criador, não no sentido religioso, mas",
+                " no sentido grandioso da criação universal.</p>",
+                " <p>Nós, artistas, não inventamos nada desde os tempos das cavernas, apenas possuímos uma curiosidade",
+                " mais aguçada e conseguimos enxergar coisas que os outros veem, mas não enxergam.</p>",
+                " <p>O meu trabalho é um dever para comigo, é a minha profissão.</p>"]
+        },"dialogando-com-nossas-sombras":{
+            "title":"DIALOGANDO COM NOSSAS SOMBRAS",
+            "autor":"AFFONSO ROMANO DE SANT’ANNA, 2009",
+            "description":["<p>Quando Carlos Pragana me encontrou na Fliporto 2008, em Porto de Galinhas, e me disse que pretendia fazer uma série",
+                " de quadros a partir dos poemas de O Homem e sua Sombra (Ed. Alegoria), pus-me a pensar o que poderia surgir dessa",
+                " temerária empreitada.</p>",
+                " <p>Disse-me ele que havia tomado conhecimento dos textos através da televisão, assistindo a uma entrevista que dei a Jô",
+                " Soares há alguns anos. Naquela ocasião, eu dissera um ou outro poema, e sobretudo o primeiro o havia marcado:</p>",
+                " <p>Era um homem com sombra de cachorro<br> que sonhava ter sombra de cavalo,<br> mas era um homem com sombra de cachorro ",
+                " <br /> e isto de algum modo o incomodava.</p>",
+                " <p>Por isto aprisionou-a num canil<br> E altas horas da noite<br> enquanto a sombra lhe ladrava<br> sua alma em",
+                " pelo galopava.</p>",
+                " <p>Algum tempo depois, Pragana anunciou-me que a exposição estava pronta, montada, e convidou-me a ir vê-la pessoalmente",
+                " na inauguração no Museu do Estado de Pernambuco. Havia me mandado reproduções pela internet, mas agora estava eu ali,",
+                " diante daquelas dezenas de telas, algumas grandes, de dois ou três metros. E ele, obviamente, me olhava curioso de",
+                " minha reação.</p>",
+                " <p>Tendo escrito artigos e livros sobre arte, eu esclarecera a Pragana que não sou crítico de arte, senão um analista",
+                " da cultura que tenta entender como a arte cristaliza certos enigmas e impasses de ontem e hoje. Portanto, diante de",
+                " suas desassombradas telas, me pus como o autor que vê, não as ilustrações de seus poemas, pois não foi isso que ele",
+                " se propôs realizar, mas como o pintor recriou livre e emocionadamente um tema que é intemporal, inconsciente e está",
+                " presente na literatura e no folclore.</p>",
+                " <p>Agradou-me que seu trabalho deixasse fluir uma certa espontaneidade nos gestos e na explosão das cores. Um diálogo",
+                " com as nossas sombras não deve ser racionalizante. Temos que provocá-las e deixar que venham à tona e se configurem",
+                " para nosso próprio assombro. Foi assim, aliás, que fiz aqueles 48 poemas, que chamo também de “estoriemas”, que estão",
+                " às vezes entre o humor e a poesia; textos que não se preocupam de roçar a prosa, como a sombra roça a imagem original.</p>",
+                " <p>O indivíduo, o artista, a comunidade que não se comunica com suas sombras está perdendo um veio rico de sintonia com",
+                " seu interior. Pragana atirou-se numa aventura plástica e, ao mesmo tempo, emocional e anímica. Conseguiu captar um",
+                " leque de representações que vão das mais leves sugestões a uma certa voluptuosidade de cores e movimentos, tirando",
+                " a sombra da própria sombra, trazendo-a ao primeiro plano da figuração.</p>",
+                " <p>Pintores da minha estima, como João Câmara e Siron Franco, ou gravadores como Rubem Grillo, são artistas que, como",
+                " Carlos Pragana, trabalham sistematicamente com o outro lado de nossas percepções.</p>",
+                " <p>Com efeito, há mais coisas entre um indivíduo e sua sombra do que supõe a nossa vã sabedoria. Disso damos pálidas notícias",
+                " em nossos textos e quadros.</p>"]
+        },"cores-e-sombras":{
+            "title":"CORES E SOMBRAS",
+            "autor":"JOÃO CÂMARA, 2009",
+            "description":["<p>O pintor Pragana captura sombras em plano corpóreo,não um plano em fuga, da caverna platônica, mas um imediatamente físico, embora, e principalmente, cambiante.</p>",
+                " <p>Faz pinturas alusivas ao verso do poeta Romano, sobrepondo uma obra a outra, vice-versas de luz e sombra.</p>",
+                " <p>Em outras suas pinturas, mais antigas, havia já inscrito a pictografia, a escrita de sinais divinatórios, falas feitas com gestos de pincel para serem lidas com a sintaxe da tinta.<br>",
+                " Essa ordem agora se afirma em planos que não são apenas fundos sobre os quais se recortam signos e gestos. São mais: plasmas e campos infinitos de matizes e luzes.</p>",
+                " <p>As sombras ali adejam e se embebem na reverberação e na matéria do espectro cósmico. Assim, as sombras deixam de ser silhuetas para, banhadas de cor, viverem pouco dependentes do foco de luz que as originou.</p>",
+                " <p>Desse modo, pintor e poeta parecem melhor se entender, cada um com palavras e cores.</p>"]
+        },"desconstrucao-o-embriao":{
+            "title":"DESCONTRUÇÃO - O EMBRIÃO",
+            "autor":"PRAGANA, 2012",
+            "description":["<p>“Nesta exposição estou propondo a Desconstrução no processo de construção da obra para chegar ao limite mínimo do descobrimento do momento da criação.Quero continuar com o meu poder expressivo, mas, como artista que sou, produzo sem saber aonde vou chegar, e por isso acredito numa aventura estética.Convido vocês a participarem desta jornada comigo, numa busca que não quero o já visto, e sim o inusitado.Para alcançar o meu intento, tentarei não passar por um processo asfixiante de criação. Quero o novo, que pode ser o desenho ou a pintura, completados com objetos pertinentes a essa minha busca.Gosto da surpresa na vida, como me acontece na criação. Não me seduz a repetição na arte. Tomara que esta arte tenha defeitos, assim como as pessoas, então a personalidade da obra ficará mais interessante.Estou escrevendo isso em agosto de 2010 e não sei como será em junho de 2012.”</p>"]
+        },"desconstrucao":{
+            "title":"DESCONTRUÇÃO",
+            "autor":"WEYDSON BARROS LEAL, 2012",
+            "description":["<p>Obras reunidas por Pragana na mostras Descontrução refletem a sua vigorosa inquietude diante das possibilidades da arte. O que temos aqui, como conjunto e unidade, é um retrato novo de um artista maduro que, nos últimos dez anos, se tornou um elo imprescindível na corrente da arte pernambucana. Dono de um desenho isento de qualquer peso acadêmico, desde muito cedo Pragana alcançou aquele estágio que outros pintores evitam após a conquista de um assinatura celebrada: o passo além. No caso desses novos trabalhos, tal passo não quer dizer o abandono da figuração – que ele domina – nem o exercício conformtável de alguma abstração vazia. No campo da sua busca cognitiva, em que traços aleatórios, manchas e superposições recriam as possiblidades do que se conhece como pintura, o que Pragana logou alngaçar foi uma nova forma para sua linguagem, que não é apenas expressionista, não é apenas figurativa nem simplesmente a fusão de uma com a outro. Seguidor de uma linhagem que, a partir de Picasso, influenciou grandes artista ocidentais – tendo no Brasil o nome de Iberê Camargo como um de seus grandes herdeiros -, Pragana incorporou a um vocabulário próprio suas observações de números artistas modernos. No entanto, o que temos ao fim de qualquer tentativa de identificar suas influências é o gesto pessoal, a inauguração de um universo particular com personalidade própria.</p>"
+            ,"<p>Depois de mais de três décadas desenvolvendo a pintura sobre tela, na qual os pincéis, a tinta acrílica e os bastões a óleo lhe oferecem ricas conjugações e texturas, nos novos trabalhos o desafio que impõe a si mesmo é o suporte do papel. Nessas pinturas, em que um material tão delicado não apenas subituti a tela, mas ao ser pintado e rasgado, participa da criação com o imponderável do impulso e do acaso, o artista renova o seu empenho em avançar sobre os sensíveis domínios entre a figuração e o abstracionismo, propondo-nos uma experiência ainda mais radical. O que já era um território conquistado em sua pintura sobre tela expande então suas fronteiras sob outros desafios, e o que temos nessa arte sobre papéis – e não apenas sobre papel – é um renascimento da percepção pictórica. Em composições com rasgos que são previamente coloridos, o artista nos sugere um reencontro também com a infância, quando os instintos mais puros de nosssos primeiros gestos de repente descobrem a forma e a cor. Em análise sobre a pintura de Pragana, escrita em 2001, o crítio e pintor João Câmara, armado de arguta sensibilidade, observou ser aquela “[...] uma pintura que, levada ao recesso exíguo e nativo do plano, parece também ter voltado muito no tempo, ter, mesmo, se voltado a uma arqueologia do ato de pintar, daí que pareça pictografia, resíduo de registro gráifco, indícios e índices do homem”. Não seria essa arqueologia também um volta à infância, às nossas primeiras expressões em paéis riscados, pintados e rasgados, como um retorno ao nosso elo de comunicação ancestral?</p>"
+            ,"<p>Talvez o artista mais emblemático quanto ao uso do papel na arte moderna seja Matisse. Desde muito cedo, o mestre de Le Cateau-Cambrésis fez experiências com o mesmo material que, sob o desenho e a gravura de Rembrandt e Goya, estabeleceu na arte europeia a sua nobreza. Claro que, muito antes disso, na China e no Japão, o papel já era suporte duradouro para uma tradição de séculos, servindo a uma pintura que teve no exilado Gauguin um dos seus maiores admiradores. Matisse conhecia essa tradiçõa e, com Gauguin e Van Gogh, não foi imune ao inflências estéticas da arte oriental.</p>"
+            ,"<p>Nessa corrente de associações, o que difere o trabalho de Pragana do de outros artistas que fazem cortes e colagens com papel é o seu jeito de tratar o material, começando na pintura de cada fragmento até a organização e fixação das formas. Enquanto para a maioria a utilização de ferramentas como a tesoura ou o estilete lhe permite um corte preciso, em Pragana esse trabalho é feito apenas com as mãos. Dessa maneira, a imprecisão do rasgo torna-se sua coadjuvante, trasnformando cada obra não apenas em uma colagem, mas nua escultura da pintura.</p>"
+            ,"<p>São poucos os artistas, especialmente na arte contemporânea, que se dedicam à pintura sobre papel como seu principal meio de expressão. Na grande maioria dos casos, o papel é usado apenas para gravura ou aquarela, e nesses domínios a arte brasileira tem a tradição de grandes nomes. Tal constatção se deve menos ao artistas do que a certos preconceitos do mercado, que considerao que não é pintura sobre tela como arte de menor valor. Issso, obviamente, não faz sentido. Basta um conhecimento mais produndo da história da arte. Creio que os novos trabalhos de Pragana, mais do que uma coleção de belas pinturas, são um avanço e uma conquista: não apenas por se algo novo, mas também pela valorização do papel. E, nesse avanço em que o novo já é uma coisa clássica, a experiência pessoal do observador dará a cada obra a sua prória tradução, e cada flor ou figura será reinventada com a aproximação de seu olhar.</p>"]
+        },"pragana-por-pragana-desconstrucao":{
+            "title":"PRAGANA POR PRAGANA - DESCONTRUÇÃO",
+            "autor":"PRAGANA, 2012",
+            "description":["<p>Foi com a lembrança de quando minha avó colocava os netos para cortar jornal a fim de fazer bandeirinhas para a procissão do Natal que essa exposição surgiu. Tantos anos depois, eu quis então provar para mim que podia, por um momento, abandonar o pincel para poder “pintar com as mãos”.</p>"
+                ,"<p>Sempre soube que queria ser artista. Desenvolvi o talento para pintar desde pequeno. Quando criança, desenhava em tudo que via. Principalmente pelos cantos da casa-grande do Engenho Buriti, nas férias, em Palmares. Ainda hoje essa lembrança continua a me inspirar, como o que era guardado nos armários do engenho, que, na visão de uma criança, eram enormes, com muitas caixas, bibelôs, livros… Tudo me encantava; era como um grande castelo com o cheiro típico da mistura dos guardados com o jasmim do terraço.</p>"
+                ,"<p>De alguma forma isso veio à tona nessa Desconstrução. Em 2010, quando dei o nome à exposição, os mistérios e encantamentos dessas lembranças permaneciam fortes na minha mente, mas eu não sabia em qual caixa de guardados os havia colocado. Foi, portanto, uma verdadeira desconstrução o início desse trabalho.</p>"
+                ,"<p>O artista deseja levantar as sobrancelhas das pessoas, isso é o que vale na arte. Quando essa caixa começou a abrir, foi aparecendo algo novo em minha obra, algo ainda sem forma. Movido pela emoção, motor de toda arte, fui colocando tudo para fora. A caixa foi aparecendo. Espero que emocione as pessoas.</p>"
+                ]
+        },"toda-nossa-cognicao-principia-de-sentimento":{
+            "title":"TODA NOSSA COGNIÇÃO PRINCIPIA DE SENTIMENTOS",
+            "autor":"MARIA DO CARMO NINO, 2013",
+            "description":["<p>“Toda nossa cognição principia de sentimentos”<br />Leonardo da Vinci</p>"
+                ,"<p>Diante da minha pergunta sobre o papel exercido pela música no seu processo de criação, o pintor Carlos Pragana apontou a poesia como sendo a principal deflagradora de sua imaginação. Por que então o contato com as colagens de papel pintado no seu ateliê havia me causado uma impressão tão fortemente musical? Lembrei-me logo de algo que havia lido nas palavras de um artista plástico britânico, James Edward MacDonald, sobre o fato do poema, obra temporal, representar para ele em mais alto grau o sentimento vital de um coração que bate, uma pulsação, ao passo que o quadro, seria a perfeição em espaço, concebido, construído, visto com uma percepção acurada. A grande música, emergiria assim, a partir da aliança entre estes dois ritmos.</p>"
+                ,"<p>Tempo e espaço, atuam ambos como ritmos condensados em uma composição simultaneamente musical, poética e fundamentalmente plástica entre pintura e desenho: eis para mim o grande amálgama da obra de Pragana. Ao eleger a colagem como poesia à convicção ele parece fazer um testamento de fé sobre o reconhecimento do poder metafórico das operações presentes neste processo em relação à própria ideia de sobrevivência humana, em meio a alegrias, infortúnios, e a necessária superação, o que nos atinge a todos.</p>"
+                ,"<p>Tudo se passa como se esta técnica fosse evocadora ela mesma deste status quo, afinal o ato inicial de pintar o papel, rasgá-lo ou cortá-lo em fragmentos para em seguida integrá-lo em uma totalidade concebida em líricas ordenações figuradas feitas expressamente para nos provocar subjetivamente, parece corroborar a condição da nossa existência humana, situada pendularmente entre os pólos de construir / desconstruir. Estamos todos, sempre, nos reinventando. Não por acaso, uma de suas exposições anteriores denominou-se “Desconstruções”, enquanto esta mostra atual se coloca dialeticamente no lado oposto do “Aglutinar”. Toda esta experiência vivenciada positivamente em pintura o deixa ávido a recomeçar, reacende o desejo, levado pela inspiração, esperando mais energia, vitalidade, condenado a pintar hoje e sempre, e, principalmente, permanecendo irredutivelmente fiel a si mesmo.</p>"
+                ,"<p>Compor, operação fundamental nesta mostra, é literalmente, por junto. Mas o que mais aglutina o artista? Ao seguir os meandros tem-se a sensação que linhas, cores e formas em seus diversos contrastes se autonomizam e surpreendem até mesmo o seu autor, parece que tudo é resgate de algo já desenhado e estampado no passado e ao mesmo tempo torna-se incrivelmente novo, torna-se poesia. Os vários processos oníricos de condensação, deslocamento, associação e cenarização através de decupagens, superposições, palimpsestos, oscilando entre a horizontalidade e a verticalidade, ou um compósito entre elas, tem por objetivo fixar o dinamismo e a constância das linhas de força criadas pelas texturas, enfatizadas pela luz, e animam também nosso espírito e nossa imaginação. Ao invés de nos questionarmos sobre o que estas imagens significam, deveríamos nos concentrar a discernir sua verdade emocional e nos regozijarmos com a aquisição de saber que elas nos proporcionam.</p>"
+            ]
+        },"colagem-impressa":{
+            "title":"COLAGEM IMPRESSA",
+            "autor":"PRAGANA, 2015",
+            "description":["<p>Sou um artista intuitivo e completamente autodidata, o papel hoje representa um lado fundamental do meu trabalho, gosto do que encontro nele.</p>"
+                ,"<p>Como sou um ser inquieto e minha vida penso que é curta para todas as idéias que me vem a cabeça, tenho um apetite voraz por novas experiências.</p>"
+                ,"<p>Comecei fazendo colagens, fui evoluindo e experimentando e para mim tudo se tornou novo, mas não estou descobrindo nada que os outros não tenham feito, dei o nome de colagem impressa para explicar as pessoas o que estava fazendo, uma colagem digitalizada em papéis de excelente qualidade para dar uma longevidade que no papel normal não teria.</p>"
+                ,"<p>Me comparo como um reciclador que usa o que já existe para contar uma nova história, mas o que a tornará melhor ou pior é como nós contamos. Acredito que há vida aí dentro.</p>"
+            ]
+        },"tudo-e-ousado-para-quem-a-nada-se-atreve":{
+            "title":"TUDO É OUSADO PARA QUEM A NADA SE ATREVE",
+            "autor":"FRANCISCO BRENNAND, 2015",
+            "description":["<p>Pragana possui um nome de pintor. Alguém que tem gana de pintar e não foi por acaso que escolheu a frase de Fernando Pessoa: “Tudo é ousado para quem a nada se atreve”. Continuidade e inovação: é o que se pode mencionar em primeiro lugar sobre estas telas expostas na Arte Plural Galeria. Impressiona, sobretudo, o tamanho de seus quadros. Poder-se-ia mesmo pensar que estamos diante de um muralista cuja ambição conceitual não lhe permite se exprimir em formatos pequenos. Ele preside um tribunal, onde está sendo julgado a anatomia dos corpos e também a dos espaços. “Um sutil disfarce” é o nome de um dos seus quadros cujas medidas 1,00 x 2,00m já disse a que veio.</p>"
+                ,"<p>Como é estranho esse mundo das palavras. Como é que se pode afirmar que a pintura já acabou quando tudo é repercurso. Como um pêndulo o tempo oscila em duas direções. Acontece que as duas coisas podem ser confundidas, a fria escuridão das cavernas com a claridade excessiva de um mundo que aquece inexoravelmente. A pintura de Pragana viaja nessas duas direções como um fio oculto que dirige todas as coisas. Ele é o pintor rudimentar que traça com aspereza as grandes linhas que formatariam a caça que toda a comunidade exigia e, ao mesmo tempo, o artista totêmico que lança suas figuras de arcanjos no mundo das nuvens como se esse espaço superior também ostentasse seus sólidos pavimentos. Pintura mural? Vamos lembrar o grande Fernand Léger a vociferar: “É preciso destruir os muros”, o que eu atenuaria para dizer que é preciso enfeitiçá-los. Os arquitetos modernos acham que o muro de concreto é tão somente um muro de concreto, mas eu continuaria a dizer que é preciso enfeitiçá-lo.</p>"
+                ,"<p>Um dos aspectos curiosos da pintura de Pragana é que, apesar da sua extrema ousadia, ele continua um pintor figurativo, embora a maior parte de suas figuras totêmicas, humanizadas ou animalizadas, estejam aprisionadas por um grafismo carbonário, isto é, revolucionário, porquanto, inusitado. Ele é novo como um astronauta e tão antigo quanto um feiticeiro das cavernas a pintar na escuridão. Essas palavras não têm outra destinação senão demonstrar o meu apreço e admiração por esse artista pernambucano que pode perfeitamente se inscrever desde há algum tempo na galeria dos grandes pintores brasileiros.</p>"
+                ,"<p>O seu admirável instinto de artista é demonstrado na sua coragem de intitular seus grandes murais. Recordo que foi matéria de uma conversa a necessidade em dar “nome aos bois”, o que significa nomear cada trabalho que um pintor realiza. Pragana é inclusive poeta. Um dos seus quadros chama-se: “Respiração das nuvens”.</p>"
+            ]
+        }
+    },
+    "videos":{
+        "title":"Vídeos",
+        "paixao":"PAIXÃO PELA VIDA E PELA ARTE",
+        "exposicao-aglutinar":"EXPOSIÇÃO - AGLUTINAR",
+        "entrevista-aglutinar":"ENTREVISTA SOBRE EXPOSIÇÃO AGLUTINAR",
+        "desconstrucao":"EXPOSIÇÃO - DESCONTRUÇÃO",
+        "o-homem-e-sua-sombra":"EXPOSIÇÃO - O HOMEM E SUA SOMBRA"
+    },
+    "fotografias":{"title":"FOTOGRAFIAS"},
+    "contato":{
+        "title":"ENVIE UMA MENSAGEM",
+        "subtitle":"OBRIGADO POR ME VISTAR. E AGORA QUE VOCÊ ESTÁ AQUI, ME ENVIE UMA MENSAGEM E EU TEREI PRAZER EM LHE RESPONDER.",
+        "name":"NOME",
+        "erro-name":"Por favor, informe seu nome.",
+        "email":"E-MAIL",
+        "erro-email":"Por favor, informe seu email.",
+        "message":"MENSAGEM",
+        "erro-message":"Por favor, insira uma mensagem.",
+        "enviar":"ENVIAR",
+        "agradecimento":"Obrigado por sua mensagem",
+        "error":"Oops.: Ocorreu um problema. :("
+    },
+    "footer":"TODOS OS DIREITOS RESERVADOS."
+  }
+  
