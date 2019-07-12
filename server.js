@@ -1,14 +1,26 @@
-// Load the http module to create an http server.
-var http = require('http');
+var express = require('express');
+var path = require('path');
+var bodyParser = require('body-parser');
+var compression = require('compression');
+var app = express();
 
-// Configure our HTTP server to respond with Hello World to all requests.
-var server = http.createServer(function (request, response) {
-  response.writeHead(200, {"Content-Type": "text/plain"});
-  response.end("Hello World\n");
+app.use(compression());
+
+app.set('port', (process.env.PORT || 8082));
+
+app.use('/', express.static(__dirname + '/dist'));
+
+app.use(bodyParser.json());
+
+app.use(bodyParser.urlencoded({ extended: false }));
+
+  // all other routes are handled by Angular
+app.get('/*', function(req, res) {
+  res.sendFile(path.join(__dirname,'/dist/index.html'));
 });
 
-// Listen on port 8080, IP defaults to 127.0.0.1
-server.listen(process.env.PORT || config.port);
+app.listen(app.get('port'), function() {
+  console.log('Angular 2 Full Stack listening on port '+app.get('port'));
+});
 
-console.log("Listening on port: " + (process.env.PORT || config.port));
-
+module.exports = app;
