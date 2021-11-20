@@ -646,7 +646,7 @@ Navbar
 Home Section
 ------------------------------------------------------------------- */
 #home{
-	background-image: url('/assets/images/pragana-home.jpg');
+	background-image: url('/assets/images/pragana-home.jpeg');
 }
 .module-hero {
 	position: relative;
@@ -660,7 +660,7 @@ Home Section
 	   -moz-background-size: cover;
 		 -o-background-size: cover;
 			background-size: cover;
-	background-image: url('/assets/images/pragana-home.jpg');
+	background-image: url('/assets/images/pragana-home.jpeg');
 }
 
 .pragana-sessao{
@@ -668,7 +668,7 @@ Home Section
 }
 
 .pragana-header-interna{
-	background-image: url('/assets/images/pragana-home.jpg');
+	background-image: url('/assets/images/pragana-home.jpeg');
 	padding: 140px 0px 40px;
 }
 
