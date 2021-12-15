@@ -1,18 +1,7 @@
 import { Component, OnInit } from '@angular/core';
-import { NgForm, FormsModule, ReactiveFormsModule} from '@angular/forms'
-import { Contact } from '../contact.model';
+import { NgForm } from '@angular/forms';
 import * as emailjs from 'emailjs-com';
 import { ContactService } from '../contact.service';
-
-//import email = require("./path/to/emailjs/email");
-/*var server = email.server.connect({
-	user:    "mail.wagnerlima@gmail.com", 
-	password:"Kamikazee", 
-	host:    "smtp.gmail.com", 
-	ssl:     true
- });*/
-
-
 @Component({
   selector: 'app-contato',
   templateUrl: './contato.component.html',
@@ -46,7 +35,7 @@ export class ContatoComponent implements OnInit {
 		 }
 
 		  console.log(template_params);
-		  emailjs.send("contato_pragana", "template_eSEtp5Zn", template_params,"user_PiFkWl57MxRCiUhQnrj1m")
+		  emailjs.send("service_89wyjy9", "template_eSEtp5Zn", template_params,"user_PiFkWl57MxRCiUhQnrj1m")
 			  .then((response) => {
 				  this.success = true;
 			  setTimeout(()=> {
